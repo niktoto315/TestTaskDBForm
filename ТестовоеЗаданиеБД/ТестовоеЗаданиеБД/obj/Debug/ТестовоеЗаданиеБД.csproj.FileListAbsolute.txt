@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\ТестовоеЗаданиеБД\ТестовоеЗаданиеБД\bin\Debug\ТестовоеЗаданиеБД.exe.config
+C:\Users\User\source\repos\ТестовоеЗаданиеБД\ТестовоеЗаданиеБД\bin\Debug\ТестовоеЗаданиеБД.exe
+C:\Users\User\source\repos\ТестовоеЗаданиеБД\ТестовоеЗаданиеБД\bin\Debug\ТестовоеЗаданиеБД.pdb
+C:\Users\User\source\repos\ТестовоеЗаданиеБД\ТестовоеЗаданиеБД\obj\Debug\ТестовоеЗаданиеБД.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ТестовоеЗаданиеБД\ТестовоеЗаданиеБД\obj\Debug\ТестовоеЗаданиеБД.MainForm.resources
+C:\Users\User\source\repos\ТестовоеЗаданиеБД\ТестовоеЗаданиеБД\obj\Debug\ТестовоеЗаданиеБД.Properties.Resources.resources
+C:\Users\User\source\repos\ТестовоеЗаданиеБД\ТестовоеЗаданиеБД\obj\Debug\ТестовоеЗаданиеБД.csproj.GenerateResource.cache
+C:\Users\User\source\repos\ТестовоеЗаданиеБД\ТестовоеЗаданиеБД\obj\Debug\ТестовоеЗаданиеБД.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ТестовоеЗаданиеБД\ТестовоеЗаданиеБД\obj\Debug\ТестовоеЗаданиеБД.exe
+C:\Users\User\source\repos\ТестовоеЗаданиеБД\ТестовоеЗаданиеБД\obj\Debug\ТестовоеЗаданиеБД.pdb
+C:\Users\User\source\repos\ТестовоеЗаданиеБД\ТестовоеЗаданиеБД\obj\Debug\ТестовоеЗаданиеБД.EditTable.resources
